@@ -7,7 +7,7 @@ httplib2==0.9.1
 simplejson==3.8.0
 urllib3==1.12
 whitenoise==2.0.3
-djangorestframework==3.4.1
+djangorestframework==3.11.2
 markdown==2.6.2
 django-filter==0.11.0
 django-rest-swagger==0.3.4
