@@ -5,7 +5,7 @@ gunicorn==19.0.0
 wsgiref==0.1.2
 httplib2==0.9.1
 simplejson==3.8.0
-urllib3==1.12
+urllib3==1.26.5
 whitenoise==2.0.3
 djangorestframework==3.4.1
 markdown==2.6.2
